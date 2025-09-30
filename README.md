@@ -74,9 +74,12 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 - Check if World of Warcraft Classic can run on Pi 5 (correctly)
 - Learn to hook Godot to buymeacoffee.com/apintio for fun
 
-## Hard one
+## Hard Challenge
 
+With APInt.IO basic interface in it and a basic drone game.
 - Publish a Godot Eloi Laboratory on Steam
 - Publish a Godot Eloi Laboratory on Android Google Play store
 - Publish a Godot Eloi Laboratory on Oculus Lab Store
+- Publish a Godot Eloi Laboratory on Pi-Apps
+- Publish a Godot Eloi Laboratory on Itch.io full platform
 
