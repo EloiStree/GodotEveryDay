@@ -18,6 +18,25 @@ Let’s learn some code a bit every day!
 
 ---
 
+This workshop, as all my works in general, is under Beerware License.
+/*
+ * ----------------------------------------------------------------------------
+ * "PIZZA LICENSE":
+ * https://github.com/EloiStree wrote this file.
+ * As long as you retain this notice you
+ * can do whatever you want with this stuff.
+ * If you think my code made you win a day of work,
+ * send me a good 🍺 or a 🍕 at
+ *  - https://buymeacoffee.com/apintio
+ * 
+ * May the code be with you.
+ *
+ * Updated version: https://github.com/EloiStree/License
+ * ----------------------------------------------------------------------------
+ */
+
+---
+
 I also created a YouTube channel:
 👉 [https://www.youtube.com/@HelloGodotPi](https://www.youtube.com/@HelloGodotPi)
 
@@ -29,3 +48,12 @@ I’ll explain these steps in detail on my teaching channel (in French):
 Once the channels grow enough to unlock audio subtitles, I’ll add audio commentary in both French and English.
 
 ## If you’d like to support this journey, feel free to subscribe! 😊
+
+
+--------
+
+# Note for me on the way
+
+## To do next
+- List all the reserved keyword of GDScript in the https://github.com/EloiStree/HelloGodotCode
+- Make a parsing list of all the topic I use to teach in Unity3D / C# to fill with Godot alternative.
