@@ -79,6 +79,7 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 
 - Create a APInt.IO remote controller for Twitch/Tournament Students.
 - Make an UDP IID Listener in Godot to allows massive keyboard and mouse multiplayer as LAN game.
+  - Create a package that abstract the ability to make those kind of game 
 - Recreate a Tello Drone Toy code
 - Recreate a Tracked vehicle Toy code
 
