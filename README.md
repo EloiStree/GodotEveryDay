@@ -47,7 +47,7 @@ I’ll explain these steps in detail on my teaching channel (in French):
 
 Once the channels grow enough to unlock audio subtitles, I’ll add audio commentary in both French and English.
 
-## If you’d like to support this journey, feel free to subscribe! 😊
+**If you’d like to support this journey, feel free to subscribe to give me access to Youtube feature ! 😊**
 
 
 --------
