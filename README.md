@@ -1,3 +1,8 @@
+[💻 Code Section](https://github.com/EloiStree/HelloGodotCode) - [🚂 Engine Section](https://github.com/EloiStree/HelloGodotEngineKeyword) - [🕹️🎮 Hacking Game](https://github.com/EloiStree/HelloGodotRemoteControlHub) - [👓 XR Section](https://github.com/EloiStree/HelloGodotXR)  - [🍓 Raspberry Pi](https://github.com/EloiStree/HelloRaspberryPi) - [🥽Quest3](https://github.com/EloiStree/HelloQuest3) - [🍺🍻](https://buymeacoffee.com/apintio)
+
+------------------------------
+
+
 # Godot Every Day
 
 > I am going to be teaching with Godot, Raspberry Pi, and Meta Quest over the next 10–24 years! So let’s dive in, relearn, and craft a little bit of code every day.
