@@ -19,6 +19,8 @@ Let’s learn some code a bit every day!
 ---
 
 This workshop, as all my works in general, is under Beerware License.
+
+```
 /*
  * ----------------------------------------------------------------------------
  * "PIZZA LICENSE":
@@ -34,6 +36,7 @@ This workshop, as all my works in general, is under Beerware License.
  * Updated version: https://github.com/EloiStree/License
  * ----------------------------------------------------------------------------
  */
+```
 
 ---
 
