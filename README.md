@@ -71,3 +71,4 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 ## To check for tournament purpose
 - Check if Golden Eye 007 can run on Pi
 - Check if World of Warcraft Classic can run on Pi 5 (correctly)
+- Learn to hook Godot to buymeacoffee.com/apintio for fun
