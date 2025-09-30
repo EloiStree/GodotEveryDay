@@ -74,6 +74,19 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 - Check if World of Warcraft Classic can run on Pi 5 (correctly)
 - Learn to hook Godot to buymeacoffee.com/apintio for fun
 
+
+## Short term challenge
+
+- Create a APInt.IO remote controller for Twitch/Tournament Students.
+- Make an UDP IID Listener in Godot to allows massive keyboard and mouse multiplayer as LAN game.
+- Recreate a Tello Drone Toy code
+- Recreate a Tracked vehicle Toy code
+
+## Mid term challenge
+
+- Refactor Open Macro Input into a Godot project for APInt.io
+
+
 ## Hard Challenge
 
 With APInt.IO basic interface in it and a basic drone game.
