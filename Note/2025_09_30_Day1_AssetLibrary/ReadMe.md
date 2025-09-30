@@ -11,3 +11,7 @@ So let’s explore what it is and what it allows us to do.
 
 ____________
 
+
+Documentation: https://docs.godotengine.org/en/latest/community/asset_library/submitting_to_assetlib.html
+Submit an asset: https://godotengine.org/asset-library/asset/submit
+
