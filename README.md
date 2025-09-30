@@ -61,6 +61,7 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 - List all the reserved keyword of GDScript in the https://github.com/EloiStree/HelloGodotCode
 - Make a parsing list of all the topic I use to teach in Unity3D / C# to fill with Godot alternative.
 - Make a package to generate color font telemetry of game with by default time, position and rotation of the Node3D.
+- Make a package of a World of Warcraft like champion to learn outside of the game server.
 
 ## To check for tournament purpose
 - Check if Golden Eye 007 can run on Pi
