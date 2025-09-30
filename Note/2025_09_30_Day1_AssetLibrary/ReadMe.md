@@ -57,6 +57,7 @@ Recommendation
 - [ ] Fix or suppress all script warnings
 - [ ] Make your code conform to the official style guides
   - [ ] https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html#doc-gdscript-styleguide
+  - [ ] https://github.com/EloiStree/HelloGodotCode/issues/30
 - [ ] if you have screenshots in your repo, place them in their own subfolder and add an empty .gdignore file
 - [ ] consider including example files in the asset.
 - [ ] consider adding a .gitattributes file to your repo. 
