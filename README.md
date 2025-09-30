@@ -67,6 +67,7 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 - Make a parsing list of all the topic I use to teach in Unity3D / C# to fill with Godot alternative.
 - Make a package to generate color font telemetry of game with by default time, position and rotation of the Node3D.
 - Make a package of a World of Warcraft like champion to learn outside of the game server.
+- Make a typing game to trying on QWERTY for coder on the hard part of the typing. Not the letter.
 
 ## To check for tournament purpose
 - Check if Golden Eye 007 can run on Pi
