@@ -7,5 +7,7 @@ But in Godot, we have something called the **Asset Library**, which is the equiv
 
 So let’s explore what it is and what it allows us to do.
 
+**Minimal Goal:** Make a Hello World package with just a print hello world in it.
+
 ____________
 
