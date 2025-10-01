@@ -10,3 +10,7 @@ You can add icon to your Node3D
 
 
 FSM 3* : https://codeberg.org/HexagonNico/FiniteStateMachine
+
+
+Note, may be a good code to parse: A Unity code I did for ECS using only integer to be multi-threadable
+https://www.youtube.com/watch?v=zomgQslz0jA
