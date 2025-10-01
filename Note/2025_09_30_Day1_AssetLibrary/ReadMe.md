@@ -84,3 +84,6 @@ Form to complete:
 
 Check state of the validation
 - https://godotengine.org/asset-library/asset/edit?&asset=-1
+
+Import an asset from the store
+- https://youtu.be/b6Zh9Wpq8lc?t=32
