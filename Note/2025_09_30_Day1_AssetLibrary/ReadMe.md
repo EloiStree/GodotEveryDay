@@ -8,6 +8,8 @@ But in Godot, we have something called the **Asset Library**, which is the equiv
 So let’s explore what it is and what it allows us to do.
 
 **Minimal Goal:** Make a Hello World package with just a print hello world in it.
+**Fail**: Publish an asset is not clear. It takes time to understand the process. The Doc give some information on the structure but not clear example of what is expected. I will have to do like for the Unity package in 2018. Spend time looking at all the package on the store and guess...
+**Next**: Try to import package in empty project to see how import work before trying again to publish.
 
 ____________
 
