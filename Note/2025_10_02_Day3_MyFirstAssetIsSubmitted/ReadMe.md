@@ -14,3 +14,10 @@ And root file are there two.
 `README.md`  
 
 <img width="733" height="261" alt="image" src="https://github.com/user-attachments/assets/bb40a6c0-ea77-4727-838c-f3708b711a2f" />
+
+
+
+--------
+
+Lets look at the python code https://github.com/EloiStree/2024_11_31_ReadHardwareToIndexInteger for the Crocket Launcher
+https://github.com/EloiStree/2025_10_02_CrocketLauncher/blob/main/FNK0101.md
