@@ -1,5 +1,9 @@
-<img width="1230" height="586" alt="image" src="https://github.com/user-attachments/assets/5472d5c6-cc17-4039-bb6e-650a09b1e3d9" />
+Yeah ;) not refused.
+Feel like victory.
 
+But if I could fix those bug.
+
+<img width="1230" height="586" alt="image" src="https://github.com/user-attachments/assets/5472d5c6-cc17-4039-bb6e-650a09b1e3d9" />
 
 I have two conflict on 
 `.editorconfig`  
