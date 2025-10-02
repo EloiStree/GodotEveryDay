@@ -24,4 +24,6 @@ https://github.com/EloiStree/2025_10_02_CrocketLauncher/blob/main/FNK0101.md
 
 
 
+Lets, rework some code here to make they easy to use in Godot.
 https://github.com/EloiStree/2024_11_31_ReadHardwareToIndexInteger/blob/main/ComToIntegerUDP/ComBridgeInOutUdp.py
+<img width="1019" height="1100" alt="image" src="https://github.com/user-attachments/assets/a049e715-793a-4ef2-ab5e-b03104fa6f12" />
