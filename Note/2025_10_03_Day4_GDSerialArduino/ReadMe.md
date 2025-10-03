@@ -89,3 +89,18 @@ Response: Received:
 Response: 
 --- Debugging process stopped ---
 ```
+
+
+in ino loop
+``` ino
+
+   if (Serial.available()) {
+      // Read the incoming data and send it to the Serial monitor
+      byte incomingByte = Serial.read();
+        char c = (char)incomingByte;
+        Serial.print("Received: ");
+        Serial.println(c);
+
+  }
+
+```
