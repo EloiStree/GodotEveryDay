@@ -62,6 +62,10 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 
 # Note for me on the way
 
+## Next Jam
+
+- 0H Game Jam: 26 Oct 2025 https://www.timeanddate.com/countdown/to?iso=20251026T02&p0=48&msg=0H+Game+Jam&font=cursive&csz=1
+
 ## To do next
 - List all the reserved keyword of GDScript in the https://github.com/EloiStree/HelloGodotCode
 - Make a parsing list of all the topic I use to teach in Unity3D / C# to fill with Godot alternative.
