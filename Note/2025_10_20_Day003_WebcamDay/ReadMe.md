@@ -14,8 +14,11 @@ sudo apt full-upgrade -y
 sudo apt update
 sudo apt install -y libcamera0 libcamera-dev libcamera-apps
 libcamera-hello
+```
 
-
+```
+eloistree@eloistree:~ $ libcamera-hello
+bash: libcamera-hello: command not found
 ```
 
 ```
