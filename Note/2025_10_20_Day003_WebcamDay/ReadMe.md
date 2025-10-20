@@ -1,3 +1,10 @@
+Python and Website succeed to have the webcam on PI 5 but not Godot 4.5.1.
+At least without the CPP addons.
+
+I will have to use python export or the CPP addons.
+
+------------
+
 Doc
 https://docs.godotengine.org/fr/4.x/classes/class_cameraserver.html
 
