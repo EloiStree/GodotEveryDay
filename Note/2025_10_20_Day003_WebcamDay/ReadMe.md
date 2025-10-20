@@ -40,3 +40,22 @@ sudo apt install gstreamer1.0-plugins-*
 ```
 pip install opencv-python
 ```
+
+
+---------------
+
+```
+extends Node
+
+func _ready():
+	print("Feed count:", CameraServer.get_feed_count())
+	for i in range(CameraServer.get_feed_count()):
+		var feed := CameraServer.get_feed(i)
+		if feed:
+			print("Feed", i, "->", feed.get_name(), "id:", feed.get_id())
+		else:
+			print("Feed", i, "is null")
+
+```
+
+
