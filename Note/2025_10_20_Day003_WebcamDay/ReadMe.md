@@ -3,6 +3,10 @@ At least without the CPP addons.
 
 I will have to use python export or the CPP addons.
 
+
+Should work on Quest3.. but not tutorial
+https://github.com/j20001970/godot-cameraserver-extension/issues/9
+
 ------------
 
 Doc
