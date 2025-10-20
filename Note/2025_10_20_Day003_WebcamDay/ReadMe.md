@@ -10,8 +10,11 @@ https://fr.webcamtests.com/
 
 ```
 cat /etc/os-release
+sudo apt full-upgrade -y
 sudo apt update
-sudo apt install libcamera-apps -y
+sudo apt install -y libcamera0 libcamera-dev libcamera-apps
+libcamera-hello
+
 
 ```
 
