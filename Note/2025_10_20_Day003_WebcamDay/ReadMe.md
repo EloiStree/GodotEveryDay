@@ -32,3 +32,11 @@ sudo apt install v4l-utils \
     gstreamer1.0-libav
 sudo apt install gstreamer1.0-plugins-*
 ```
+
+
+------------
+
+
+```
+pip install opencv-python
+```
