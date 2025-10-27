@@ -9,3 +9,7 @@ Read Later:
 
 
 What is the difference between Godot https://store-beta.godotengine.org/asset/new/ and the library one ?
+
+
+Add to the doc
+https://godot.foundation/
