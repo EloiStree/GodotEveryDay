@@ -6,10 +6,12 @@ Not in aim to publish it but to work on it.
 Read Later:
 - https://github.com/godotengine/godot-proposals/issues/62
 - https://github.com/godotengine/godot-proposals/issues/554
-
+- Thread: https://youtu.be/m9UO7Z9863s?t=100
 
 What is the difference between Godot https://store-beta.godotengine.org/asset/new/ and the library one ?
 
 
 Add to the doc
 https://godot.foundation/
+
+
