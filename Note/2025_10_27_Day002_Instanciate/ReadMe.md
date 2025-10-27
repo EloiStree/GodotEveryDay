@@ -5,7 +5,7 @@ It works but it is hard to debug compare to Unity3D.
 -------
 
 Try to vibe a Websocket gate
-``` gd
+``` gdscript
 @tool
 class_name TrustedWebSocketClient
 extends Node
