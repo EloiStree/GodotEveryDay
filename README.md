@@ -68,7 +68,7 @@ I need to learn GDScript because it’s the native language, but I should teach 
 
 ## Next Jam
 
-- 0H Game Jam: 26 Oct 2025 https://www.timeanddate.com/countdown/to?iso=20251026T02&p0=48&msg=0H+Game+Jam&font=cursive&csz=1
+- ~0H Game Jam: 26 Oct 2025 https://www.timeanddate.com/countdown/to?iso=20251026T02&p0=48&msg=0H+Game+Jam&font=cursive&csz=1~
 
 ## To do next
 - List all the reserved keyword of GDScript in the https://github.com/EloiStree/HelloGodotCode
