@@ -41,3 +41,8 @@ Input.set_custom_mouse_cursor(texture)
 # connect disconnect
 Input.joy_connection_changed
 ```
+ 
+**The screen I am using with my PI is considered as a mouse and not a screen touch.**   
+So I cant really make test outside of mobile but I am not ready for that.  
+Maybe in the Quest.   
+
