@@ -57,7 +57,11 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 
 **If you’d like to support this journey, feel free to subscribe to give me access to Youtube feature ! 😊**
 
+---------
 
+**Reminder to myself:** I chose Godot not because it’s better, but because, like Blender, it’s going to outlive me.   
+I need to learn GDScript because it’s the native language, but I should teach it with C#, or Rust, since my students need a solid language they can rely on beyond Godot.   
+   
 --------
 
 # Note for me on the way
@@ -69,7 +73,7 @@ Once the channels grow enough to unlock audio subtitles, I’ll add audio commen
 ## To do next
 - List all the reserved keyword of GDScript in the https://github.com/EloiStree/HelloGodotCode
 - Make a parsing list of all the topic I use to teach in Unity3D / C# to fill with Godot alternative.
-- Make a package to generate color font telemetry of game with by default time, position and rotation of the Node3D.
+- Make a package to generate color font telemetry of game with by default time, position and rotation of the Node3D.D
 - Make a package of a World of Warcraft like champion to learn outside of the game server.
 - Make a typing game to trying on QWERTY for coder on the hard part of the typing. Not the letter.
 
