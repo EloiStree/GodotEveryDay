@@ -105,3 +105,17 @@ With APInt.IO basic interface in it and a basic drone game.
 - Publish a Godot Eloi Laboratory on Pi-Apps
 - Publish a Godot Eloi Laboratory on Itch.io full platform
 
+
+
+----------
+
+# Thank to
+
+[<img width="1285" height="586" alt="image" src="https://github.com/user-attachments/assets/6aa043aa-7c6d-4058-82ef-81074e8596a8" />](https://youtu.be/QKgTZWbwD1U?t=8)  
+https://youtu.be/QKgTZWbwD1U?t=8    
+[Ariel Manzur](https://www.youtube.com/results?search_query=Ariel+Manzur+godot+) [Wiki](https://en.wikipedia.org/w/index.php?search=Ariel+Manzur)  
+[Juan Linietsky](https://www.youtube.com/results?search_query=Juan+Linietskyr+godot+) [Wiki](https://en.wikipedia.org/w/index.php?search=Juan+Linietsky)  
+
+
+
+
