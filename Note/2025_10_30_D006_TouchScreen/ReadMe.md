@@ -31,3 +31,13 @@ func _ready() -> void:
 
 
 ````
+
+
+```
+
+Input.is_physical_key_pressed(KEY_SPACE)
+Input.set_custom_mouse_cursor(texture)
+
+# connect disconnect
+Input.joy_connection_changed
+```
