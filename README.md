@@ -105,6 +105,9 @@ With APInt.IO basic interface in it and a basic drone game.
 - Publish a Godot Eloi Laboratory on Pi-Apps
 - Publish a Godot Eloi Laboratory on Itch.io full platform
 
+# 4.5
+- Editor Script and menu ( seem cool )
+  - https://youtu.be/vPcYsAWLEj4?t=57
 
 
 ----------
