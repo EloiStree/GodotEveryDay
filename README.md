@@ -108,6 +108,14 @@ With APInt.IO basic interface in it and a basic drone game.
 # 4.5
 - Editor Script and menu ( seem cool )
   - https://youtu.be/vPcYsAWLEj4?t=57
+- Variant exporting ( choose your type
+  - https://youtu.be/vPcYsAWLEj4?t=91
+- SDL (input) ?
+  - https://youtu.be/vPcYsAWLEj4?t=103
+- You can create abstract class now
+  - https://youtu.be/vPcYsAWLEj4?t=391
+- params ;)
+  - https://youtu.be/vPcYsAWLEj4?t=431       
 
 
 ----------
