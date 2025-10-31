@@ -77,6 +77,13 @@ I need to learn GDScript because it’s the native language, but I should teach 
 - Make a package of a World of Warcraft like champion to learn outside of the game server.
 - Make a typing game to trying on QWERTY for coder on the hard part of the typing. Not the letter.
 
+## I am missing
+- WatchTime Package https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git
+- Tick Package https://github.com/EloiStree/OpenUPM_TickCollection.git
+- primitive relay Package https://github.com/EloiStree/2025_04_02_FacadePrimitiveValueRelay.git
+- Package Builder https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git
+- "be.elab.blockscolor": "https://github.com/EloiStree/2024_10_16_BlocksColor.git",
+
 ## To check for tournament purpose
 - Check if Golden Eye 007 can run on Pi
 - Check if World of Warcraft Classic can run on Pi 5 (correctly)
