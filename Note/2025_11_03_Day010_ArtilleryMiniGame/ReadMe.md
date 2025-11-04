@@ -7,3 +7,6 @@ https://github.com/EloiStree/2025_11_01_gdp_artillery_net_bullets/tree/main
 
 A cool tutorial I fall on
 https://www.youtube.com/watch?v=q7wlSvt0JIc&list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF&index=1
+
+To watch later
+https://youtu.be/cgwM0k0PtPQ?t=89
