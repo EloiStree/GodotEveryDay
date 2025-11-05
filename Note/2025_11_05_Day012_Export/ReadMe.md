@@ -10,7 +10,7 @@ https://docs.godotengine.org/en/latest/classes/class_object.html#class-object-pr
 
 
 What I played around. I should learn next how to comment correctly my code and interface
-```
+``` gdscript
 
 @tool
 extends Node3D
