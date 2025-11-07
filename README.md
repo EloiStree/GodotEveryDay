@@ -125,6 +125,18 @@ With APInt.IO basic interface in it and a basic drone game.
   - https://youtu.be/vPcYsAWLEj4?t=431       
 
 
+---------
+
+# Code Tournament
+
+> I want to create game were we can make offline and half-offline tournament of code to learn code.
+
+Realtimeboard: To keep the track of where I am.
+https://miro.com/app/board/uXjVJuQRccc=/?share_link_id=606272270134
+
+
+
+
 ----------
 
 # Thank to
