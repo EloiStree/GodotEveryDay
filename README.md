@@ -131,6 +131,13 @@ With APInt.IO basic interface in it and a basic drone game.
 
 > I want to create game were we can make offline and half-offline tournament of code to learn code.
 
+The concept is simple:
+- Manual is given at start of the tournament
+- The game provide bytes and text information
+- Player can simulate keybaord and gamepad in the game with network.
+- Online player can play in half-offline tournament
+- Offline player must have a Python CircuitPython code to play that run on Pico 2W.
+
 Realtimeboard: To keep the track of where I am.
 https://miro.com/app/board/uXjVJuQRccc=/?share_link_id=606272270134
 
