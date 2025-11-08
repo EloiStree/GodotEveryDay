@@ -62,3 +62,10 @@ func _ready() -> void:
 
 
 ```
+
+    
+World of Wacraft is there in two days.    
+So I will start to simulate keyboard and start a workshop on the topic:    
+[https://github.com/EloiStree/2025_11_11_gdp_wow_int_utility](https://github.com/EloiStree/2025_11_11_gdp_wow_int_utility)  
+
+
