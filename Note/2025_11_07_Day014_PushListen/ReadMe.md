@@ -100,3 +100,41 @@ func notify_destroyed_bullet(
 
 
 ```
+
+
+
+By aim when I was going to the Cassini hackathon was to make a simple Artillery DOS game.
+But as soon as you use float32 in game engine you are limited to 8.4km and less.
+
+So i need to turn my tool to cm presision integer32 to make it works.
+Version one will be on flat earth map to be compatible with World of Warcraft map
+
+
+
+``` gdscript
+
+class STRUCT_IntCmPrecision:
+	# I need an artillery dos game playble on a planet earth scale
+	# So I need to store position in cm precision with int32
+	# Max integer value for cm precision is 21,474,836.47 meter (21,474 km)
+	var value_i32cm: int = 0
+
+	
+	const MAX_VALUE_I32CM = 2147483647  # Max positive value for int32
+	const MIN_VALUE_I32CM = -2147483648 # Min negative value for int32
+	const MAX_VALUE_IN_KM = 21474.83647  # Convert cm to km
+	const MIN_VALUE_IN_KM = -21474.83648  # Convert cm to km
+	const MAX_VALUE_IN_METER = 21474836.47  # Convert cm to meter
+	const MIN_VALUE_IN_METER = -21474836.48  # Convert cm to meter
+
+class STRUCT_IntMaxDegreePrecision360:
+	## I want to make artillery game on a planet scale so 42000 km circumference max.
+	## it means that I need precise degree instead of the classic 180.00
+	## Max integer value for degree with 0.000001 precision and 360 degrees is 360,000,000 
+	var value_i32_360_000000: int = 0
+
+```
+
+
+
+
