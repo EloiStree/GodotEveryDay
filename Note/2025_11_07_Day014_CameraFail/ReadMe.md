@@ -6,6 +6,8 @@ I have to try.
 But on  Window without the GDExtension it is hell.
 No tutorial.
 
+I am going to install ubuntu on a computer and try on the apple of the familly to check.
+
 
 
 Last attempt
