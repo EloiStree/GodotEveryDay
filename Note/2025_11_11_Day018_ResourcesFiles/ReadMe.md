@@ -1,5 +1,8 @@
 I have 20 minutes left. Let s look at resources files storage.
 
+As planned it is easy to learn.
+Create a extends Resources
+Then you can right click in the project menu an create a resources that you will be able to drop.
 
 ```gdscript
 class_name IntInputResource_10SecondsNinja 
