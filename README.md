@@ -142,8 +142,25 @@ Realtimeboard: To keep the track of where I am.
 https://miro.com/app/board/uXjVJuQRccc=/?share_link_id=606272270134
 
 
+------------
 
 
+# World of Warcraft to Warcraft 
+
+I think that I loved World of Warcraft but they missed the point of War and Craft in Warcraft.
+On my Counter Strike server we had an audio:
+"If you dont like it, you take your own two hands and create your own server."
+
+Maybe there is something to do here by doing code tournament with warcraft 1 concept.  
+
+Just archer, soldier battle in World of Warcraft map.  
+But with code to allows hundred player in the map.  
+
+A bit of inspiration:    
+["This One Zone Put the "WAR" in World of Warcraft"](https://youtu.be/ehi7MK1nn8w?t=487)  
+https://youtu.be/ehi7MK1nn8w?t=487  
+   
+  
 ----------
 
 # Thank to
