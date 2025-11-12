@@ -4,9 +4,12 @@ I tried Wow... So I have minutes left.
 
 
 Lets look at curve
-https://github.com/EloiStree/HelloGodotCode/issues/53
-<img width="1393" height="637" alt="image" src="https://github.com/user-attachments/assets/a74c2a6d-9015-4c24-9403-5cc237e5a60e" />
+https://github.com/EloiStree/HelloGodotCode/issues/53   
+<img width="1393" height="637" alt="image" src="https://github.com/user-attachments/assets/a74c2a6d-9015-4c24-9403-5cc237e5a60e" />   
 
+Something cool about Godot is that inspector element are resource.  
+Here for example you create a curve as resource of the project, then drop it where you need.  
+You can do it in Unity3D but it is less stable in Unity that this way of doing.  
 
 ``` gdscript
 
