@@ -175,3 +175,17 @@ https://github.com/godotengine/godot/pull/105734
 
 Camera Feed:    
 https://github.com/shiena/godot-camerafeed-demo   
+
+
+
+Apparently there is a way on Linux, outside of the editor:
+https://github.com/users/EloiStree/projects/23/views/1?pane=issue&itemId=127570796&issue=EloiStree%7CHelloGodotRemoteControlHub%7C15
+
+
+Now I need to check on Android Editor and on my Raspberry Pi 5 if I can make it works.
+
+
+
+
+
+
