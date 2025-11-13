@@ -171,3 +171,7 @@ func _log(msg: String) -> void:
 https://github.com/godotengine/godot/pull/49763
 https://github.com/godotengine/godot/pull/106094
 https://github.com/godotengine/godot/pull/105734
+
+
+Camera Feed:    
+https://github.com/shiena/godot-camerafeed-demo   
