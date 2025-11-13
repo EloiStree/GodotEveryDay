@@ -344,17 +344,18 @@ func _on_camera_feeds_updated() -> void:
 		_log("✅ Feed active.")
 		cam_tex = CameraTexture.new()
 		cam_tex.camera_feed_id = feed.get_id()
-		camera_view.texture = cam_tex
+		on_camera_texture_created.emit(cam_tex)
 		connected = true
 		lost_frames_timer = 0.0
-
-		# 🖼️ Maintain aspect ratio automatically
-		if selected_width > 0 and selected_height > 0:
-			_update_camera_view_scale()
-			get_tree().root.size_changed.connect(_update_camera_view_scale)
+		if camera_view != null:
+			camera_view.texture = cam_tex
+		
+		
 	else:
 		_log("❌ Feed activation failed — check permissions or device availability.")
 		connected = false
+		
+signal on_camera_texture_created(new_camera_texture: CameraTexture)
 
 func _process(delta: float) -> void:
 	if connected and cam_tex:
@@ -419,6 +420,7 @@ func _update_camera_view_scale() -> void:
 func _log(msg: String) -> void:
 	print(msg)
 	debug_label.text += msg + "\n"
+
 
 ```
 
