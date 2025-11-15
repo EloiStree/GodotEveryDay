@@ -28,3 +28,26 @@ void fragment() {
 }
 
 ```
+
+
+
+```gdshader
+shader_type spatial;
+render_mode unshaded; // optional (lets you see the exact texture colors)
+
+uniform sampler2D albedo_tex : source_color;
+
+void fragment() {
+    vec4 c = texture(albedo_tex, UV);
+
+    // invert red + blue
+    c.r = 1.0 - c.r;
+    c.b = 1.0 - c.b;
+
+    ALBEDO = c.rgb;
+    ALPHA = c.a;
+}
+
+```
+
+<img width="867" height="765" alt="image" src="https://github.com/user-attachments/assets/889e4548-19c4-4a99-9a33-ace617f5ec76" />
