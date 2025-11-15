@@ -1,7 +1,4 @@
-Great — Godot **4.5.1** uses the same shader language as the rest of Godot 4.x, so the instructions are almost identical.
-Here is the *cleanest, correct shader format* for Godot **4.5.1** with a simple example.
 
----
 
 # ✅ Simple Sprite Shader for Godot 4.5.1
 
