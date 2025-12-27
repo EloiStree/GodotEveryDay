@@ -6,3 +6,5 @@ We are end of the year. I would like to have the Pico 2W working before starting
 
 I start working on the midi and the UDP listener par of the Godot and Pico W
 
+
+https://github.com/EloiStree/APIntCodeTournamentHardwarePico2W
