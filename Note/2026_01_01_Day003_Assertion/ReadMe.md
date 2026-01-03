@@ -5,6 +5,6 @@ I just watch this video https://www.youtube.com/watch?v=ayfw_NFBWQg on assertion
 https://www.youtube.com/watch?v=ayfw_NFBWQg  
 
 
-See assert(condition, message)https://github.com/EloiStree/HelloGodotCode/issues/72 
-and push_error() https://github.com/EloiStree/HelloGodotCode/issues/73
+See [assert(condition, message)](https://github.com/EloiStree/HelloGodotCode/issues/72) 
+and [push_error()](https://github.com/EloiStree/HelloGodotCode/issues/73) 
 
