@@ -6,7 +6,7 @@ Better if you directly give the when to execute or do a macro like I like to do 
 
 It would be nice to work on the date NTP to be able to create millisecond acquracy as we are on hardware.
 
-```
+``` gdscript
 
 extends Node
 
