@@ -2,3 +2,5 @@ For the workshop on Godot and C#, I would like to have some A4 Cloud of words th
 
 Lets started it with reserved key word of Godot in RealTime Board.
 
+Realtimeboard des mots cles.  
+https://miro.com/app/board/uXjVGUVLhc8=/?share_link_id=827919475930   
